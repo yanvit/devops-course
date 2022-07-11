@@ -1,0 +1,7 @@
+/usr/bin
+/usr/lib
+/usr/libexec
+/usr/local
+/usr/sbin
+/usr/share
+/usr/standalone
